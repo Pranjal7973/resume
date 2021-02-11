@@ -17,7 +17,9 @@ a{
     color: white;
 }
 
-img{
+.img{
+    background: url('images/logo.png') no-repeat center;
+    background-size: cover;
     height: 100px;
     width: 120px;
     margin: 0 12px;
@@ -459,8 +461,17 @@ h4{
 }
 
 @media only screen and (max-width:500px){
-    img{
-        height: 60px;
+
+    #image-internal {
+        margin: 0 30px;
+        width: 84vw;
+        height: 48vh;
+        background-size: contain;
+        border-radius: 50%;
+    }
+    .img{
+        padding: 0;
+        height: 50px;
         width: 100px;
     }
     #logo>p{
