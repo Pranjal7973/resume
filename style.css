@@ -177,7 +177,7 @@ h1{
 #notes-pic{
     height: 150px;
     width: 150px;
-    background: url("/images/check-list.png") no-repeat;
+    background: url("images/check-list.png") no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -396,7 +396,7 @@ h4{
 #facebook{
     height: 30px;
     width: 30px;
-    background: url("/images/facebook.png") no-repeat;
+    background: url("images/facebook.png") no-repeat;
     background-size: cover;
     background-position: center;
     /* filter: invert(1); */
@@ -406,7 +406,7 @@ h4{
 #insta{
     height: 30px;
     width: 30px;
-    background: url("/images/instagram-sketched.png") no-repeat;
+    background: url("images/instagram-sketched.png") no-repeat;
     background-size: cover;
     background-position: center;
     /* filter: invert(1); */
@@ -415,7 +415,7 @@ h4{
 #twitter{
     height: 30px;
     width: 30px;
-    background: url("/images/twitter.png") no-repeat;
+    background: url("images/twitter.png") no-repeat;
     background-size: cover;
     background-position: center;
     /* filter: invert(1); */
@@ -424,7 +424,7 @@ h4{
 #linked{
     height: 30px;
     width: 30px;
-    background: url("/images/linkedin.png") no-repeat;
+    background: url("images/linkedin.png") no-repeat;
     background-size: cover;
     background-position: center;
     filter: invert(1);
@@ -432,7 +432,7 @@ h4{
 #git{
     height: 30px;
     width: 30px;
-    background: url("/images/GitHub-Mark-64px.png") no-repeat;
+    background: url("images/GitHub-Mark-64px.png") no-repeat;
     background-size: cover;
     background-position: center;
     filter: invert(1);

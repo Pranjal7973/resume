@@ -3,7 +3,7 @@ var cross = document.getElementById('cross')
 var ul = document.getElementById('ul')
 
 
-if(window,screen.width <= 500){
+if(window.screen.width <= 500){
 
 ham.addEventListener('click',()=>{
     ul.style.transition = 'all ease-in-out 2s'
